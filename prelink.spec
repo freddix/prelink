@@ -11,7 +11,7 @@ Source2:	%{name}.cron
 Source3:	%{name}.sysconfig
 BuildRequires:	autoconf
 BuildRequires:	automake
-BuildRequires:	elfutils-devel
+BuildRequires:	elfutils-static
 BuildRequires:	libstdc++-devel
 BuildRequires:	libtool
 Requires(post):	coreutils
