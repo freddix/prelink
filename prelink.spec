@@ -1,7 +1,7 @@
 Summary:	Tool to optimize relocations in object files
 Name:		prelink
 Version:	20130503
-Release:	1
+Release:	2
 License:	GPL
 Group:		Development/Tools
 Source0:	http://people.redhat.com/jakub/prelink/%{name}-%{version}.tar.bz2
